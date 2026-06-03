@@ -3,9 +3,7 @@ function App() {
 
   return (
     <>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Card heading="React Component" text ="We use components for the reusability"/>
       <Card/>
     </>
   );
