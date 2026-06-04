@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.welcome {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.login {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
