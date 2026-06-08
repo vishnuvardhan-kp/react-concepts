@@ -1,0 +1,13 @@
+button {
+  padding: 5px;
+  border-radius : 5px;
+  border : solid 1px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+}
